@@ -1,0 +1,28 @@
+header {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.logo-mobile {
+    display: block;
+    max-width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.logo-wide {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .logo-mobile {
+        display: none;
+    }
+
+    .logo-wide {
+        display: block;
+        max-width: 200px;
+        height: auto;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,36 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.body__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body__card1,
+.body__card2,
+.body__card3,
+.body__card4,
+.body__card5,
+.body__card6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body__logo {
+    width: 420px;
+    vertical-align: middle;
+}
+
+.body__card1>.body__buylink>a,
+.body__storelink>a {
+    color: #e568ac;
+    text-decoration: none;
+}

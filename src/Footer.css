@@ -1,0 +1,37 @@
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+.privacy-policy {
+    margin-top: 20px;
+}
+
+.privacy-policy a {
+    color: #1d3fbb;
+}
+
+.menu-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-list li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.menu-list li:last-child {
+    margin-right: 0;
+}
+
+.menu-list li a {
+    color: #000;
+    text-decoration: none;
+}
