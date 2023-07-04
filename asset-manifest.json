@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backstage-talks/static/css/main.dcc6be37.css",
+    "main.js": "/backstage-talks/static/js/main.dee48a39.js",
+    "index.html": "/backstage-talks/index.html",
+    "main.dcc6be37.css.map": "/backstage-talks/static/css/main.dcc6be37.css.map",
+    "main.dee48a39.js.map": "/backstage-talks/static/js/main.dee48a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc6be37.css",
+    "static/js/main.dee48a39.js"
+  ]
+}
