@@ -4,7 +4,7 @@ import './Header.css'
 function Header() {
     return (
         <div className='header'>
-            <img className='header__logo' src="/Backstage.png " />
+            <img className='header__logo' src="https://backstagetalks.com/img/logo.png" />
         </div>
     )
 }
