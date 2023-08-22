@@ -52,3 +52,5 @@ function App() {
 }
 
 export default App;
+
+//make footer similar like magzine
